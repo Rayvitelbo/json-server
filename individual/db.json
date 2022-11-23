@@ -1,0 +1,65 @@
+{
+  "Livros": [
+    {
+      "id": 1,
+      "name": "A Rainha vermelha"
+    },
+    {
+      "id": 2,
+      "name": "Divergente"
+    },
+    {
+      "id": 3,
+      "name": "1808"
+    },
+    {
+      "id": 4,
+      "name": "A cartomante"
+    },
+    {
+      "id": 5,
+      "name": "Turma da Monica"
+    }
+    
+  ],
+  "temas": [
+    {
+      "id": 1,
+      "name": "Historia em quadrinhos"
+    },
+    {
+      "id": 2,
+      "name": "Literatura brasileira"
+    },
+    {
+      "id": 3,
+      "name": "Fantasia"
+    },
+    {
+      "id": 4,
+      "name": "Historia"
+    }
+  ],
+  "valores": [
+    {
+      "id": 1,
+      "name": "30,00"
+    },
+    {
+      "id": 2,
+      "name": "35,00"
+    },
+    {
+      "id": 3,
+      "name": "50,00"
+    },
+    {
+      "id": 4,
+      "name": "25,00"
+    },
+    {
+      "id": 5,
+      "name": "20,00"
+    }
+  ]
+}
